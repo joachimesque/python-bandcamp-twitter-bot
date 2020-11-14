@@ -1,0 +1,399 @@
+{ "value": "electronic", "name": "electronic" }
+{ "value": "experimental", "name": "experimental" }
+{ "value": "rock", "name": "rock" }
+{ "value": "alternative", "name": "alternative" }
+{ "value": "hip-hop-rap", "name": "hip-hop/rap" }
+{ "value": "ambient", "name": "ambient" }
+{ "value": "metal", "name": "metal" }
+{ "value": "punk", "name": "punk" }
+{ "value": "indie", "name": "indie" }
+{ "value": "noise", "name": "noise" }
+{ "value": "ambient", "name": "ambient" }
+{ "value": "techno", "name": "techno" }
+{ "value": "pop", "name": "pop" }
+{ "value": "indie-rock", "name": "indie rock" }
+{ "value": "pop", "name": "pop" }
+{ "value": "hip-hop", "name": "hip hop" }
+{ "value": "instrumental", "name": "instrumental" }
+{ "value": "experimental", "name": "experimental" }
+{ "value": "electronic", "name": "electronic" }
+{ "value": "rock", "name": "rock" }
+{ "value": "folk", "name": "folk" }
+{ "value": "acoustic", "name": "acoustic" }
+{ "value": "rap", "name": "rap" }
+{ "value": "drone", "name": "drone" }
+{ "value": "folk", "name": "folk" }
+{ "value": "psychedelic", "name": "psychedelic" }
+{ "value": "electronica", "name": "electronica" }
+{ "value": "house", "name": "house" }
+{ "value": "singer-songwriter", "name": "singer-songwriter" }
+{ "value": "hardcore", "name": "hardcore" }
+{ "value": "lo-fi", "name": "lo-fi" }
+{ "value": "industrial", "name": "industrial" }
+{ "value": "jazz", "name": "jazz" }
+{ "value": "dark-ambient", "name": "dark ambient" }
+{ "value": "alternative-rock", "name": "alternative rock" }
+{ "value": "jazz", "name": "jazz" }
+{ "value": "punk", "name": "punk" }
+{ "value": "hip-hop", "name": "hip-hop" }
+{ "value": "experimental-electronic", "name": "experimental electronic" }
+{ "value": "world", "name": "world" }
+{ "value": "indie-pop", "name": "indie pop" }
+{ "value": "beats", "name": "beats" }
+{ "value": "electro", "name": "electro" }
+{ "value": "black-metal", "name": "black metal" }
+{ "value": "soundtrack", "name": "soundtrack" }
+{ "value": "post-rock", "name": "post-rock" }
+{ "value": "acoustic", "name": "acoustic" }
+{ "value": "punk-rock", "name": "punk rock" }
+{ "value": "lofi", "name": "lofi" }
+{ "value": "techno", "name": "techno" }
+{ "value": "soul", "name": "soul" }
+{ "value": "alternative", "name": "alternative" }
+{ "value": "post-punk", "name": "post-punk" }
+{ "value": "shoegaze", "name": "shoegaze" }
+{ "value": "house", "name": "house" }
+{ "value": "soundtrack", "name": "soundtrack" }
+{ "value": "death-metal", "name": "death metal" }
+{ "value": "deep-house", "name": "deep house" }
+{ "value": "funk", "name": "funk" }
+{ "value": "downtempo", "name": "downtempo" }
+{ "value": "indie", "name": "indie" }
+{ "value": "dance", "name": "dance" }
+{ "value": "avant-garde", "name": "avant-garde" }
+{ "value": "blues", "name": "blues" }
+{ "value": "idm", "name": "idm" }
+{ "value": "minimal", "name": "minimal" }
+{ "value": "progressive", "name": "progressive" }
+{ "value": "emo", "name": "emo" }
+{ "value": "vaporwave", "name": "vaporwave" }
+{ "value": "improvisation", "name": "improvisation" }
+{ "value": "dub", "name": "dub" }
+{ "value": "trap", "name": "trap" }
+{ "value": "synthpop", "name": "synthpop" }
+{ "value": "underground", "name": "underground" }
+{ "value": "synthwave", "name": "synthwave" }
+{ "value": "garage", "name": "garage" }
+{ "value": "hip-hop", "name": "hip hop" }
+{ "value": "indie-folk", "name": "indie folk" }
+{ "value": "underground-hip-hop", "name": "underground hip hop" }
+{ "value": "folk-rock", "name": "folk rock" }
+{ "value": "synth", "name": "synth" }
+{ "value": "rap", "name": "rap" }
+{ "value": "r-b", "name": "r&b" }
+{ "value": "dubstep", "name": "dubstep" }
+{ "value": "drum-bass", "name": "drum & bass" }
+{ "value": "metal", "name": "metal" }
+{ "value": "piano", "name": "piano" }
+{ "value": "funk", "name": "funk" }
+{ "value": "americana", "name": "americana" }
+{ "value": "pop-rock", "name": "pop rock" }
+{ "value": "instrumental-hip-hop", "name": "instrumental hip-hop" }
+{ "value": "ambient-electronic", "name": "ambient electronic" }
+{ "value": "chillout", "name": "chillout" }
+{ "value": "pop-punk", "name": "pop punk" }
+{ "value": "guitar", "name": "guitar" }
+{ "value": "hardcore-punk", "name": "hardcore punk" }
+{ "value": "progressive-rock", "name": "progressive rock" }
+{ "value": "chill", "name": "chill" }
+{ "value": "electronic-music", "name": "electronic music" }
+{ "value": "grunge", "name": "grunge" }
+{ "value": "classical", "name": "classical" }
+{ "value": "garage-rock", "name": "garage rock" }
+{ "value": "psychedelic-rock", "name": "psychedelic rock" }
+{ "value": "soundscape", "name": "soundscape" }
+{ "value": "tech-house", "name": "tech house" }
+{ "value": "hardcore", "name": "hardcore" }
+{ "value": "edm", "name": "edm" }
+{ "value": "atmospheric", "name": "atmospheric" }
+{ "value": "hard-rock", "name": "hard rock" }
+{ "value": "harsh-noise", "name": "harsh noise" }
+{ "value": "blues", "name": "blues" }
+{ "value": "dream-pop", "name": "dream pop" }
+{ "value": "noise", "name": "noise" }
+{ "value": "classical", "name": "classical" }
+{ "value": "diy", "name": "diy" }
+{ "value": "psytrance", "name": "psytrance" }
+{ "value": "devotional", "name": "devotional" }
+{ "value": "reggae", "name": "reggae" }
+{ "value": "hiphop", "name": "hiphop" }
+{ "value": "bass", "name": "bass" }
+{ "value": "doom", "name": "doom" }
+{ "value": "country", "name": "country" }
+{ "value": "trip-hop", "name": "trip hop" }
+{ "value": "grindcore", "name": "grindcore" }
+{ "value": "experimental-rock", "name": "experimental rock" }
+{ "value": "post-hardcore", "name": "post-hardcore" }
+{ "value": "experiemental", "name": "experiemental" }
+{ "value": "trance", "name": "trance" }
+{ "value": "noise-rock", "name": "noise rock" }
+{ "value": "dark", "name": "dark" }
+{ "value": "soul", "name": "soul" }
+{ "value": "glitch", "name": "glitch" }
+{ "value": "new-wave", "name": "new wave" }
+{ "value": "darkwave", "name": "darkwave" }
+{ "value": "acid", "name": "acid" }
+{ "value": "r-b-soul", "name": "r&b/soul" }
+{ "value": "heavy-metal", "name": "heavy metal" }
+{ "value": "thrash-metal", "name": "thrash metal" }
+{ "value": "electronica", "name": "electronica" }
+{ "value": "spoken-word", "name": "spoken word" }
+{ "value": "rock-roll", "name": "rock & roll" }
+{ "value": "instrumental", "name": "instrumental" }
+{ "value": "electroacoustic", "name": "electroacoustic" }
+{ "value": "doom-metal", "name": "doom metal" }
+{ "value": "reggae", "name": "reggae" }
+{ "value": "metalcore", "name": "metalcore" }
+{ "value": "chillwave", "name": "chillwave" }
+{ "value": "black-metal", "name": "black metal" }
+{ "value": "new-age", "name": "new age" }
+{ "value": "dance", "name": "dance" }
+{ "value": "world-music", "name": "world music" }
+{ "value": "sound-art", "name": "sound art" }
+{ "value": "disco", "name": "disco" }
+{ "value": "field-recordings", "name": "field recordings" }
+{ "value": "chiptune", "name": "chiptune" }
+{ "value": "free-jazz", "name": "free jazz" }
+{ "value": "progressive-metal", "name": "progressive metal" }
+{ "value": "hip-hop", "name": "hip-hop" }
+{ "value": "psychedelic", "name": "psychedelic" }
+{ "value": "music", "name": "music" }
+{ "value": "acoustic-guitar", "name": "acoustic guitar" }
+{ "value": "stoner-rock", "name": "stoner rock" }
+{ "value": "orchestral", "name": "orchestral" }
+{ "value": "instrumentals", "name": "instrumentals" }
+{ "value": "industrial", "name": "industrial" }
+{ "value": "black-bandcamp", "name": "black-bandcamp" }
+{ "value": "idm", "name": "idm" }
+{ "value": "breakbeat", "name": "breakbeat" }
+{ "value": "cinematic", "name": "cinematic" }
+{ "value": "meditation", "name": "meditation" }
+{ "value": "electro", "name": "electro" }
+{ "value": "surf", "name": "surf" }
+{ "value": "bedroom-pop", "name": "bedroom pop" }
+{ "value": "blues-rock", "name": "blues rock" }
+{ "value": "sludge", "name": "sludge" }
+{ "value": "country", "name": "country" }
+{ "value": "jungle", "name": "jungle" }
+{ "value": "drone", "name": "drone" }
+{ "value": "fusion", "name": "fusion" }
+{ "value": "power-pop", "name": "power pop" }
+{ "value": "boom-bap", "name": "boom bap" }
+{ "value": "comedy", "name": "comedy" }
+{ "value": "alternative-pop", "name": "alternative pop" }
+{ "value": "musique-concrete", "name": "musique concrete" }
+{ "value": "dubstep", "name": "dubstep" }
+{ "value": "bass-music", "name": "bass music" }
+{ "value": "electropop", "name": "electropop" }
+{ "value": "death-metal", "name": "death metal" }
+{ "value": "abstract", "name": "abstract" }
+{ "value": "trap", "name": "trap" }
+{ "value": "deep", "name": "deep" }
+{ "value": "breaks", "name": "breaks" }
+{ "value": "melodic", "name": "melodic" }
+{ "value": "alt-country", "name": "alt-country" }
+{ "value": "space", "name": "space" }
+{ "value": "drone-ambient", "name": "drone ambient" }
+{ "value": "stoner", "name": "stoner" }
+{ "value": "free-improvisation", "name": "free improvisation" }
+{ "value": "roots", "name": "roots" }
+{ "value": "math-rock", "name": "math rock" }
+{ "value": "psych", "name": "psych" }
+{ "value": "soundscapes", "name": "soundscapes" }
+{ "value": "goth", "name": "goth" }
+{ "value": "folk-punk", "name": "folk punk" }
+{ "value": "contemporary", "name": "contemporary" }
+{ "value": "live", "name": "live" }
+{ "value": "experimental-hip-hop", "name": "experimental hip-hop" }
+{ "value": "art-rock", "name": "art rock" }
+{ "value": "beats", "name": "beats" }
+{ "value": "power-electronics", "name": "power electronics" }
+{ "value": "ebm", "name": "ebm" }
+{ "value": "garage-punk", "name": "garage punk" }
+{ "value": "space-rock", "name": "space rock" }
+{ "value": "hip-hop-instrumentals", "name": "hip hop instrumentals" }
+{ "value": "krautrock", "name": "krautrock" }
+{ "value": "", "name": "" }
+{ "value": "breakcore", "name": "breakcore" }
+{ "value": "improvised-music", "name": "improvised music" }
+{ "value": "poetry", "name": "poetry" }
+{ "value": "improv", "name": "improv" }
+{ "value": "harsh-noise-wall", "name": "harsh noise wall" }
+{ "value": "world", "name": "world" }
+{ "value": "progressive", "name": "progressive" }
+{ "value": "deep-house", "name": "deep house" }
+{ "value": "independent", "name": "independent" }
+{ "value": "gothic", "name": "gothic" }
+{ "value": "ska", "name": "ska" }
+{ "value": "minimalism", "name": "minimalism" }
+{ "value": "remix", "name": "remix" }
+{ "value": "christian", "name": "christian" }
+{ "value": "latin", "name": "latin" }
+{ "value": "weird", "name": "weird" }
+{ "value": "pop-punk", "name": "pop punk" }
+{ "value": "bedroom", "name": "bedroom" }
+{ "value": "folk-pop", "name": "folk pop" }
+{ "value": "rock-and-roll", "name": "rock and roll" }
+{ "value": "drum-and-bass", "name": "drum and bass" }
+{ "value": "synthesizer", "name": "synthesizer" }
+{ "value": "dub", "name": "dub" }
+{ "value": "screamo", "name": "screamo" }
+{ "value": "80s", "name": "80s" }
+{ "value": "dub-techno", "name": "dub techno" }
+{ "value": "progressive-house", "name": "progressive house" }
+{ "value": "alternative-hip-hop", "name": "alternative hip-hop" }
+{ "value": "americana", "name": "americana" }
+{ "value": "crust", "name": "crust" }
+{ "value": "retrowave", "name": "retrowave" }
+{ "value": "post-metal", "name": "post-metal" }
+{ "value": "acoustic-rock", "name": "acoustic rock" }
+{ "value": "psychedelic-trance", "name": "psychedelic trance" }
+{ "value": "plunderphonics", "name": "plunderphonics" }
+{ "value": "samples", "name": "samples" }
+{ "value": "songwriter", "name": "songwriter" }
+{ "value": "thrash", "name": "thrash" }
+{ "value": "hard-rock", "name": "hard rock" }
+{ "value": "prog", "name": "prog" }
+{ "value": "garage", "name": "garage" }
+{ "value": "minimal-techno", "name": "minimal techno" }
+{ "value": "minimal", "name": "minimal" }
+{ "value": "modern-classical", "name": "modern classical" }
+{ "value": "trance", "name": "trance" }
+{ "value": "experimental-pop", "name": "experimental pop" }
+{ "value": "groove", "name": "groove" }
+{ "value": "synth-pop", "name": "synth pop" }
+{ "value": "horror", "name": "horror" }
+{ "value": "bass", "name": "bass" }
+{ "value": "rave", "name": "rave" }
+{ "value": "film-music", "name": "film music" }
+{ "value": "dnb", "name": "dnb" }
+{ "value": "powerviolence", "name": "powerviolence" }
+{ "value": "techno.", "name": "techno." }
+{ "value": "indie-rock", "name": "indie rock" }
+{ "value": "house-music", "name": "house music" }
+{ "value": "atmospheric-black-metal", "name": "atmospheric black metal" }
+{ "value": "nu-disco", "name": "nu disco" }
+{ "value": "underground-rap", "name": "underground rap" }
+{ "value": "spoken-word", "name": "spoken word" }
+{ "value": "minimalist", "name": "minimalist" }
+{ "value": "beat-tape", "name": "beat tape" }
+{ "value": "kids", "name": "kids" }
+{ "value": "downtempo", "name": "downtempo" }
+{ "value": "avantgarde", "name": "avantgarde" }
+{ "value": "avant-garde", "name": "avant garde" }
+{ "value": "dungeon-synth", "name": "dungeon synth" }
+{ "value": "heavy", "name": "heavy" }
+{ "value": "deep-techno", "name": "deep techno" }
+{ "value": "noise-pop", "name": "noise pop" }
+{ "value": "classic-rock", "name": "classic rock" }
+{ "value": "spiritual", "name": "spiritual" }
+{ "value": "loops", "name": "loops" }
+{ "value": "rap-hip-hop", "name": "rap & hip-hop" }
+{ "value": "dreampop", "name": "dreampop" }
+{ "value": "female-vocals", "name": "female vocals" }
+{ "value": "grime", "name": "grime" }
+{ "value": "contemporary-classical", "name": "contemporary classical" }
+{ "value": "deathcore", "name": "deathcore" }
+{ "value": "jazz-and-improvised-music", "name": "jazz and improvised music" }
+{ "value": "video-game-music", "name": "video game music" }
+{ "value": "video-game", "name": "video game" }
+{ "value": "diy", "name": "diy" }
+{ "value": "holland", "name": "holland" }
+{ "value": "field-recording", "name": "field recording" }
+{ "value": "neo-soul", "name": "neo-soul" }
+{ "value": "boombap", "name": "boombap" }
+{ "value": "retro", "name": "retro" }
+{ "value": "cassette", "name": "cassette" }
+{ "value": "sad", "name": "sad" }
+{ "value": "improvised", "name": "improvised" }
+{ "value": "rnb", "name": "rnb" }
+{ "value": "tokyo%2C-japan", "name": "tokyo, japan" }
+{ "value": "tape", "name": "tape" }
+{ "value": "indiepop", "name": "indiepop" }
+{ "value": "melodic-hardcore", "name": "melodic hardcore" }
+{ "value": "drums", "name": "drums" }
+{ "value": "vocal", "name": "vocal" }
+{ "value": "prog-rock", "name": "prog rock" }
+{ "value": "instrumental-rock", "name": "instrumental rock" }
+{ "value": "progressive-rock", "name": "progressive rock" }
+{ "value": "noisecore", "name": "noisecore" }
+{ "value": "disco", "name": "disco" }
+{ "value": "love", "name": "love" }
+{ "value": "free", "name": "free" }
+{ "value": "jazz-fusion", "name": "jazz fusion" }
+{ "value": "underground", "name": "underground" }
+{ "value": "acid", "name": "acid" }
+{ "value": "jam", "name": "jam" }
+{ "value": "jazzy", "name": "jazzy" }
+{ "value": "lounge", "name": "lounge" }
+{ "value": "analog", "name": "analog" }
+{ "value": "heavy-rock", "name": "heavy rock" }
+{ "value": "future-bass", "name": "future bass" }
+{ "value": "stoner-metal", "name": "stoner metal" }
+{ "value": "grind", "name": "grind" }
+{ "value": "soulful", "name": "soulful" }
+{ "value": "art", "name": "art" }
+{ "value": "christian", "name": "christian" }
+{ "value": "post-punk", "name": "post punk" }
+{ "value": "sample-based", "name": "sample-based" }
+{ "value": "punkrock", "name": "punkrock" }
+{ "value": "edm", "name": "edm" }
+{ "value": "djent", "name": "djent" }
+{ "value": "neoclassical", "name": "neoclassical" }
+{ "value": "bluegrass", "name": "bluegrass" }
+{ "value": "dance-music", "name": "dance music" }
+{ "value": "rock%27n%27roll", "name": "rock'n'roll" }
+{ "value": "surf-rock", "name": "surf rock" }
+{ "value": "latin", "name": "latin" }
+{ "value": "emo", "name": "emo" }
+{ "value": "heavy-metal", "name": "heavy metal" }
+{ "value": "doom", "name": "doom" }
+{ "value": "gospel", "name": "gospel" }
+{ "value": "witch-house", "name": "witch house" }
+{ "value": "glitch-hop", "name": "glitch hop" }
+{ "value": "post-rock", "name": "post rock" }
+{ "value": "dancehall", "name": "dancehall" }
+{ "value": "funky", "name": "funky" }
+{ "value": "dark-ambient", "name": "dark ambient" }
+{ "value": "punk-hardcore", "name": "punk hardcore" }
+{ "value": "punk-rock", "name": "punk rock" }
+{ "value": "easy-listening", "name": "easy listening" }
+{ "value": "hnw", "name": "hnw" }
+{ "value": "rock-n-roll", "name": "rock n roll" }
+{ "value": "space-music", "name": "space music" }
+{ "value": "beat", "name": "beat" }
+{ "value": "hypnagogic", "name": "hypnagogic" }
+{ "value": "cyberpunk", "name": "cyberpunk" }
+{ "value": "melodic-death-metal", "name": "melodic death metal" }
+{ "value": "leftfield", "name": "leftfield" }
+{ "value": "sludge-metal", "name": "sludge metal" }
+{ "value": "postrock", "name": "postrock" }
+{ "value": "future-funk", "name": "future funk" }
+{ "value": "shoegaze", "name": "shoegaze" }
+{ "value": "triphop", "name": "triphop" }
+{ "value": "ambient-rock", "name": "ambient rock" }
+{ "value": "neo-classical", "name": "neo-classical" }
+{ "value": "christmas", "name": "christmas" }
+{ "value": "club", "name": "club" }
+{ "value": "swing", "name": "swing" }
+{ "value": "chillhop", "name": "chillhop" }
+{ "value": "dreamy", "name": "dreamy" }
+{ "value": "chill-out", "name": "chill out" }
+{ "value": "alternative-rock", "name": "alternative rock" }
+{ "value": "meditative", "name": "meditative" }
+{ "value": "tribal", "name": "tribal" }
+{ "value": "progressive-trance", "name": "progressive trance" }
+{ "value": "no-wave", "name": "no wave" }
+{ "value": "metalcore", "name": "metalcore" }
+{ "value": "singer-songwriter", "name": "singer-songwriter" }
+{ "value": "psychedelic-pop", "name": "psychedelic pop" }
+{ "value": "r-b", "name": "r&b" }
+{ "value": "8bit", "name": "8bit" }
+{ "value": "footwork", "name": "footwork" }
+{ "value": "piano-solo", "name": "piano solo" }
+{ "value": "fuzz", "name": "fuzz" }
+{ "value": "wave", "name": "wave" }
+{ "value": "jungle", "name": "jungle" }
+{ "value": "noise-ambient", "name": "noise ambient" }
+{ "value": "raw-black-metal", "name": "raw black metal" }
+{ "value": "lyrical", "name": "lyrical" }
