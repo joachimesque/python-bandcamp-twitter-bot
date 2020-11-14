@@ -21,6 +21,13 @@ def get_sentence(tag_name, album_title, album_artist, album_url):
     "Yes, sex is good, but have you heard of %s?\n%s\n%s",
     "Look what I picked yesterday at the %s store, %s by %s",
     "I’ve got an illness, and the answer is more %s.\n%s\n%s",
+    "%s. The new sound. Of course, it’s %s, by %s",
+    "If you want to hear tomorrow’s %s, listen to %s, by %s",
+    "You think you know %s? Wait until you hear %s, from %s",
+    "Everything in %s has been done, so they say. Everything? No! %s by %s ups the ante.",
+    "I like %s, and %s, by %s, is my new jam.",
+    "np #%s 🎧\n%s, %s\n🎶",
+    "I’m a simple man, listening to simple %s. %s, by %s? Thats what I like.",
   ]
   random_sentence = random.choice(sentences) + "\n\n%s"
 
