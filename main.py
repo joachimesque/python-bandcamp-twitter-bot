@@ -10,19 +10,21 @@ import argparse
 # Parse arguments
 
 parser = argparse.ArgumentParser("Bandcamp Twitter tool")
-parser.add_argument("index_path",
+parser.add_argument("-i", "--index_path",
                     help="Path to your index file",
-                    default="index_path=current_index.txt",
-                    nargs="?"
+                    default="current_index.txt",
+                    nargs="?",
+                    type=str
                     )
-parser.add_argument("tag_list_path",
+parser.add_argument("-t", "--tag_list_path",
                     help="Path to your tag list file",
-                    default="tag_list_path=tag_list.txt",
-                    nargs="?"
+                    default="tag_list.txt",
+                    nargs="?",
+                    type=str
                     )
 args = parser.parse_args()
-index_path = args.index_path.split("=")[1]
-tag_list_path = args.tag_list_path.split("=")[1]
+index_path = args.index_path
+tag_list_path = args.tag_list_path
 
 # Get current index and tag
 
