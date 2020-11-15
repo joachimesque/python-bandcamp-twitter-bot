@@ -12,9 +12,8 @@ def get_albums_from_tag(tag):
 
   request_dict = {'filters':{'format':'all','location':0,'sort':'pop','tags':[tag]},'page':1}
   payload = json.dumps(request_dict)
-
   response = requests.request("POST", url, headers = headers, data = payload)
 
-  response_json = response.json()
+  response_object = response.json()
 
-  return(response_json)
+  return(response_object)

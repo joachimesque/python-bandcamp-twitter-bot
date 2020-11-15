@@ -5,8 +5,9 @@ import json
 import linecache
 import sys
 
-def get_tag_line(index_path, tag_list_path):
-  current_index = linecache.getline(index_path, 1)
+def get_tag_line(index_path, tag_list_path, current_index):
+  if current_index == 0:
+    current_index = linecache.getline(index_path, 1)
 
   try:
     current_index = int(current_index)
@@ -24,7 +25,7 @@ def get_tag_line(index_path, tag_list_path):
     print("Error: there was a problem getting the tag line.")
     sys.exit()
 
-  return [current_index, tag_line]
+  return {"current_index": current_index, "tag": tag_line}
 
 def write_index(index, index_path):
   with open(index_path, 'w') as index_file:
