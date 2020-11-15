@@ -2,8 +2,8 @@
 
 Powering the following bots:
 
-- Popular tags (400 or so, every 6 hours): https://twitter.com/bc_pop_tags
-- Obscure genres (TBC)
+- Popular tags (400 or so, every 6 hours): **[@bc_pop_tags](https://twitter.com/bc_pop_tags)**
+- Obscure genres (5000 or so, a few times a day): **[@bc_obscure_tags](https://twitter.com/bc_obscure_tags)**
 
 ## 🛠
 
