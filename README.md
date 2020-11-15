@@ -27,7 +27,13 @@ It's read in order (shuffle your lines beforehand if you want a random order)
 
 ### dev
 
+using the default paths:
+
 `python3 main.py`
+
+using custom paths:
+
+`python3 main.py -t ~/path_to/tab_list.txt -i ~/path_to/current_index.txt`
 
 ### prod
 
@@ -41,10 +47,10 @@ export ACCESS_TOKEN_SECRET=…
 ```
 
 2. run
-`source .secrets && python3 main.py`
+`. .secrets && python3 main.py`
 
 3. `crontab -e`
 
 ```
-* */6 * * * cd ~/python-bandcamp-twitter-bot && source .secrets && python3 main.py
+* */6 * * * cd ~/python-bandcamp-twitter-bot && . .secrets && python3 main.py -t ~/path_to/tab_list.txt -i ~/path_to/current_index.txt
 ```
